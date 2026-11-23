@@ -41,8 +41,8 @@ export interface VehicleOption {
 export const COMPANY_INFO = {
   name: 'TRY LANKA TRAVELS',
   logoUrl: '/assets/aistudio/WhatsApp_Image_2026-11-22_at_10.08.55_PM_25e0ea81.jpeg',
-  whatsappNumber: '94774582910',
-  whatsappDisplay: '+94 77 458 2910',
+  whatsappNumber: '94772051782',
+  whatsappDisplay: '+94 77 205 1782',
   email: 'bookings@trylankatravels.com',
   officeCity: 'Colombo & Katunayake (BIA Airport Desk), Sri Lanka',
   licenseNote: 'SLTDA Registered Chauffeur-Guide & Private Transport Operator',
