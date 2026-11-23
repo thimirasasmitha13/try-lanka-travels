@@ -1,0 +1,6 @@
+{
+  "name": "Hollowmere — A Night of Lanterns",
+  "description": "An illustrated Halloween descent scroll through Hollowmere: moonlit canyon, crypt laboratory, turning mill wheel, cauldron foundry, and the lantern lake.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
